@@ -1,11 +1,7 @@
-package fr.lernejo;
+package fr.lernejo.guessgame;
 
 import java.security.SecureRandom;
 
-import fr.lernejo.guessgame.ComputerPlayer;
-import fr.lernejo.guessgame.HumanPlayer;
-import fr.lernejo.guessgame.Player;
-import fr.lernejo.guessgame.Simulation;
 import java.security.SecureRandom;
 
 public class Launcher {
