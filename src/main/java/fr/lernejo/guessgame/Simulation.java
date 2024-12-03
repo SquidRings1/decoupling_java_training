@@ -49,7 +49,7 @@ public class Simulation {
         long time = end - start;
         logger.log("time: " + (time / 60000) + ":" + (time % 60000) / 1000 + "." + (time % 1000));
         if (success) {
-            logger.log("You wonnnnnnnnnnnnnnnnnnnnn yeahhhhhhhhhhhhhhhhhhhh  woooooooooooooooow !!!!!!!!!!!!!!!!!!!!!!!!!!");
+            logger.log("you won !");
         }
     }
 }

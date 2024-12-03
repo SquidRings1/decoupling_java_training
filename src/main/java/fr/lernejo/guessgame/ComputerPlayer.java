@@ -20,7 +20,7 @@ public class ComputerPlayer implements Player {
     public void respond(boolean lowerOrGreater) {
         if (lowerOrGreater) {
             low = a_number + 1;
-            logger.log("The number is higher.");
+            logger.log("The number is greater.");
         } else {
             up = a_number - 1;
             logger.log("The number is lower.");

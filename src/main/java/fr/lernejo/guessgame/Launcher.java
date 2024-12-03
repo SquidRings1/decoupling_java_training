@@ -27,7 +27,7 @@ public class Launcher {
             simulation.initialize(secondnumber);
             simulation.loopUntilPlayerSucceed(1000);
         } else {
-            System.out.println("Usage: java -jar decoupling_java_training.jar -interactive or -auto {a number}");
+            System.out.println("To use the program: java -jar decoupling_java_training.jar -interactive or -auto {a number}");
         }
     }
 }
